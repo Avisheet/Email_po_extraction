@@ -1,4 +1,4 @@
-# Email PO Extraction
+# Email PO Extraction(Under development)
 
 The **`email_po_extraction`** project automates the process of extracting **Purchase Order (PO)** details from incoming emails and their attachments. It uses **Flask** for the web interface, **Machine Learning (ML)** for email classification, and **OCR** for extracting text from image-based attachments. The system can also parse **Google Docs** and **Google Sheets** using the Google API.
 
